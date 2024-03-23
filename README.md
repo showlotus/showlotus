@@ -1,7 +1,9 @@
 # Open source projects
 
-![Repo Name](https://img.shields.io/badge/wordcloud--online-blue?logo=react&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fwordcloud-online) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/wordcloud-online) · ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2Fwordcloud-online%2Fwebsite%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2Fwordcloud-online%2Fwebsite%2F)
-· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/wordcloud-online) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/wordcloud-online)
+## Plugins
+
+![Repo Name](https://img.shields.io/badge/code--inspector--plugin-blue?logo=webpack&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fcode-inspector-plugin) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/code-inspector-plugin)
+· ![NPM Downloads](https://img.shields.io/npm/dt/@showlotus/code-inspector-plugin) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/code-inspector-plugin) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/code-inspector-plugin)
 
 ![Repo Name](https://img.shields.io/badge/babel--plugin--jsx-blue?logo=babel&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fbabel-plugin-jsx) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/babel-plugin-jsx) · ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2Fbabel-plugin-jsx%2Fwebsite%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2Fbabel-plugin-jsx%2Fwebsite%2F)
 · ![NPM Downloads](https://img.shields.io/npm/dt/@showlotus/babel-plugin-jsx) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/babel-plugin-jsx) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/babel-plugin-jsx)
@@ -14,12 +16,28 @@
 
 ![Repo Name](https://img.shields.io/badge/ivu--extends-blue?logo=vuedotjs&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fivu-extends) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/ivu-extends) · ![NPM Downloads](https://img.shields.io/npm/dt/ivu-extends) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/ivu-extends) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/ivu-extends)
 
+## Websites
+
+![Repo Name](https://img.shields.io/badge/DouDiZhu--Register-blue?logo=typescript&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2FDouDiZhu-Register) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/DouDiZhu-Register) · ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2FDouDiZhu-Register%2Fwebsite%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2FDouDiZhu-Register%2Fwebsite%2F)
+· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/DouDiZhu-Register) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/DouDiZhu-Register)
+
+![Repo Name](https://img.shields.io/badge/vue--sfc--playground-blue?logo=vuedotjs&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fvue-sfc-playground) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/vue-sfc-playground) · ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2Fvue-sfc-playground%2Fwebsite%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2Fvue-sfc-playground%2Fwebsite%2F)
+· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/vue-sfc-playground) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/vue-sfc-playground)
+
+![Repo Name](https://img.shields.io/badge/wordcloud--online-blue?logo=react&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fwordcloud-online) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/wordcloud-online) · ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2Fwordcloud-online%2Fwebsite%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2Fwordcloud-online%2Fwebsite%2F)
+· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/wordcloud-online) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/wordcloud-online)
+
+![Repo Name](https://img.shields.io/badge/astexplorer-blue?logo=react&link=https%3A%2F%2Fgithub.com%2Fshowlotus%2Fastexplorer) · ![GitHub package.json version](https://img.shields.io/github/package-json/v/showlotus/astexplorer?filename=website%2Fpackage.json)
+· ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshowlotus.github.io%2Fastexplorer%2Fout%2F&up_message=online&link=https%3A%2F%2Fshowlotus.github.io%2Fastexplorer%2Fout%2F)
+· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/astexplorer) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/astexplorer)
+
 <!--
   - 制作徽标：https://shields.io/badges
   - 查看 Github 仓库 Stars 数：https://shields.io/badges/git-hub-repo-stars
   - 查看 Github 仓库 Forks 数：https://shields.io/badges/git-hub-forks
   - 查看 Github 仓库某个分支 package.json 版本号：https://shields.io/badges/git-hub-package-json-version-branch
   - 查看 Github 仓库 package.json 版本号：https://shields.io/badges/git-hub-package-json-dynamic
+  - 查看 Github 仓库子文件夹 package.json 版本号：https://shields.io/badges/git-hub-package-json-version
   - 查看 Github 仓库许可：https://shields.io/badges/git-hub-license
   - 查看 Github 仓库首选语言：https://shields.io/badges/git-hub-top-language
   - 查看 Github 仓库 Release 下载数：https://shields.io/badges/git-hub-downloads-all-assets-all-releases
