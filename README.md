@@ -2,7 +2,7 @@
 
 ## Apps
 
-[![Repo Name](https://img.shields.io/badge/NeedClipboard-blue?logo=win+&link=https://github.com/showlotus/NeedClipboard)](https://github.com/showlotus/NeedClipboard) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/NeedClipboard) · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/showlotus/NeedClipboard/total?color=#6ec93f) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/NeedClipboard?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/NeedClipboard?style=flat)
+[![Repo Name](https://img.shields.io/badge/NeedClipboard-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAUJJREFUSEvlVkESgyAMTF7W+rK2L6u+LHUzYEMMRpzeykynqMCSzWaBKWki8iSiR2fYi5nxvdvYfxGROxHhh3Yr/ZmIlmAVAL/M+5mZMXZrDcDBbic/ESvIOiEAbaLyAJjQDOgs8t3hylF9EJE3+sw81XcpQNlpxLNSYSOrDLABPQWQCcFEoIIYBkDioxwEArkMsMtNFNUlioyyIMEteb8EwO6RUNRGKNfLObC7jwB8boYpKjWgdeE1HlGXAlhezQIWAGpSabuq71LHznsshvqQWRA5QKUi0ehXH8J/z6sIAJGfVCBvG2oFxfi0oBK3nXduelS1JQ/VaVOrVisJeN9ZrpFhpQke1LV6e0YMe1GJYokOmlRFVpZnDS5S3rDZnQX7jwigcyjFHuRnGcI4FGcjAK+ieqPoXVMyMFQ06mO7WXwAAVQVYQ7xoaoAAAAASUVORK5CYII=&link=https://github.com/showlotus/NeedClipboard)](https://github.com/showlotus/NeedClipboard) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/NeedClipboard) · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/showlotus/NeedClipboard/total?color=#6ec93f) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/NeedClipboard?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/NeedClipboard?style=flat)
 
 ## Plugins
 
