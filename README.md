@@ -1,5 +1,9 @@
 # Open source projects
 
+## Apps
+
+[![Repo Name](https://img.shields.io/badge/NeedClipboard-blue?logo=win+&link=https://github.com/showlotus/NeedClipboard)](https://github.com/showlotus/NeedClipboard) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/NeedClipboard) · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/showlotus/NeedClipboard/total?color=#6ec93f) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/NeedClipboard?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/NeedClipboard?style=flat)
+
 ## Plugins
 
 [![Repo Name](https://img.shields.io/badge/vue2--sub--app-blue?logo=vuedotjs&link=https://github.com/showlotus/vue2-sub-app)](https://github.com/showlotus/vue2-sub-app) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/vue2-sub-app)
