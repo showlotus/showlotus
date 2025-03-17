@@ -6,6 +6,9 @@
 
 ## Plugins
 
+[![Repo Name](https://img.shields.io/badge/compiler--then--plugin-blue?logo=webpack&link=https://github.com/showlotus/compiler-then-plugin)](https://github.com/showlotus/compiler-then-plugin) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/compiler-then-plugin)
+· ![NPM Downloads](https://img.shields.io/npm/dt/@showlotus/compiler-then-plugin) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/compiler-then-plugin?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/compiler-then-plugin?style=flat)
+
 [![Repo Name](https://img.shields.io/badge/vue2--sub--app-blue?logo=vuedotjs&link=https://github.com/showlotus/vue2-sub-app)](https://github.com/showlotus/vue2-sub-app) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/vue2-sub-app)
 · ![NPM Downloads](https://img.shields.io/npm/dt/vue2-sub-app) · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/vue2-sub-app?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/vue2-sub-app?style=flat)
 
