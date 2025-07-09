@@ -32,6 +32,9 @@
 
 ## Websites
 
+[![Repo Name](https://img.shields.io/badge/bigscreen-blue?logo=html5&logoColor=white&link=https://github.com/showlotus/bigscreen)](https://github.com/showlotus/bigscreen) · [![Website](https://img.shields.io/website?url=https://showlotus.github.io/bigscreen/&up_message=online&link=https://showlotus.github.io/bigscreen/)](https://showlotus.github.io/bigscreen/)
+· ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/bigscreen?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/bigscreen?style=flat)
+
 [![Repo Name](https://img.shields.io/badge/Python--100--Days--Website-blue?logo=python&logoColor=white&link=https://github.com/showlotus/Python-100-Days-Website)](https://github.com/showlotus/Python-100-Days-Website) · ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/showlotus/Python-100-Days-Website) · [![Website](https://img.shields.io/website?url=https://showlotus.github.io/Python-100-Days-Website/&up_message=online&link=https://showlotus.github.io/Python-100-Days-Website/)](https://showlotus.github.io/Python-100-Days-Website/)
 · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/Python-100-Days-Website?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/Python-100-Days-Website?style=flat)
 
