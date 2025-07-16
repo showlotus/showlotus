@@ -51,6 +51,8 @@
 · [![Website](https://img.shields.io/website?url=https://showlotus.github.io/astexplorer/out/&up_message=online&link=https://showlotus.github.io/astexplorer/out/)](https://showlotus.github.io/astexplorer/out/)
 · ![GitHub Repo stars](https://img.shields.io/github/stars/showlotus/astexplorer?style=flat) · ![GitHub forks](https://img.shields.io/github/forks/showlotus/astexplorer?style=flat)
 
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/showlotus?ext=activity&site=cn) -->
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showlotus&layout=compact)
 
 ![showlotus's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=showlotus&show_icons=true&theme=default#gh-light-mode-only) -->
