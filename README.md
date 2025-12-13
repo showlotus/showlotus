@@ -239,7 +239,7 @@
   <!-- 版本号 -->
   <!-- <img src="https://img.shields.io/github/package-json/version/showlotus/wordcloud-online" alt="GitHub package.json dynamic" /> -->
   <!-- 项目网站链接 -->
-  <a href="https://showlotus.github.io/wordcloud-online/website/"><img src="https://img.shields.io/website?url=https://showlotus.github.io/wordcloud-online/website/&up_message=online&link=https://showlotus.github.io/wordcloud-online/website/" alt="Website" /></a>
+  <a href="https://showlotus.github.io/wordcloud-online/"><img src="https://img.shields.io/website?url=https://showlotus.github.io/wordcloud-online/&up_message=online&link=https://showlotus.github.io/wordcloud-online/" alt="Website" /></a>
   <!-- Stars 数 -->
   <img src="https://img.shields.io/github/stars/showlotus/wordcloud-online?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
