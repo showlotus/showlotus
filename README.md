@@ -164,6 +164,18 @@
 
 ## Websites
 
+<!-- fumadocs-template -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/fumadocs-template"><img src="https://img.shields.io/badge/fumadocs--template-blue?logo=nextdotjs&link=https://github.com/showlotus/fumadocs-template" alt="fumadocs-template" /></a>
+  <!-- 项目网站链接 -->
+  <a href="https://showlotus.github.io/fumadocs-template/"><img src="https://img.shields.io/website?url=https://showlotus.github.io/fumadocs-template/&up_message=online&link=https://showlotus.github.io/fumadocs-template/" alt="Website" /></a>
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/fumadocs-template?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/fumadocs-template?style=flat" alt="GitHub forks" />
+</div>
+
 <!-- ahooks-dive -->
 <div>
   <!-- 项目主页链接 -->
