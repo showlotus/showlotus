@@ -272,6 +272,20 @@
   <img src="https://img.shields.io/github/forks/showlotus/astexplorer?style=flat" alt="GitHub forks" />
 </div>
 
+## Browser Extension
+
+<!-- tampermonkey-scripts -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/tampermonkey-scripts"><img src="https://img.shields.io/badge/tampermonkey--scripts-blue?logo=tampermonkey&link=https://github.com/showlotus/tampermonkey-scripts" alt="tampermonkey-scripts" /></a>
+  <!-- 版本号 -->
+  <!-- <img src="https://img.shields.io/github/package-json/version/showlotus/browser-extension" alt="GitHub package.json dynamic" /> -->
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/tampermonkey-scripts?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/tampermonkey-scripts?style=flat" alt="GitHub forks" />
+</div>
+
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/showlotus?ext=activity&site=cn) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showlotus&layout=compact) -->
@@ -280,6 +294,7 @@
 
 <!--
   - 制作徽标：https://shields.io/badges
+  - 查找 logo：https://simpleicons.org/
   - 查看 Github 仓库 Stars 数：https://shields.io/badges/git-hub-repo-stars
   - 查看 Github 仓库 Forks 数：https://shields.io/badges/git-hub-forks
   - 查看 Github 仓库某个分支 package.json 版本号：https://shields.io/badges/git-hub-package-json-version-branch
