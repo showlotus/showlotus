@@ -164,6 +164,20 @@
 
 ## Websites
 
+<!-- showcv -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/ShowCV"><img src="https://img.shields.io/badge/ShowCV-blue?logo=react" alt="showcv" /></a>
+  <!-- 版本号 -->
+  <!-- <img src="https://img.shields.io/github/package-json/version/showlotus/ahooks-dive" alt="GitHub package.json dynamic" /> -->
+  <!-- 项目网站链接 -->
+  <a href="https://showlotus.github.io/ShowCV/"><img src="https://img.shields.io/website?url=https://showlotus.github.io/ShowCV/&up_message=online&link=https://showlotus.github.io/ShowCV/" alt="Website" /></a>
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/ShowCV?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/ShowCV?style=flat" alt="GitHub forks" />
+</div>
+
 <!-- fumadocs-template -->
 <div>
   <!-- 项目主页链接 -->
