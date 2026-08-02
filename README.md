@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/NeedClipboard?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/NeedClipboard?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/NeedClipboard" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/NeedClipboard" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/NeedClipboard" alt="GitHub last commit" />
 </div>
@@ -32,11 +36,35 @@
   <img src="https://img.shields.io/github/stars/showlotus/open-scriptable?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/open-scriptable?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/open-scriptable" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/open-scriptable" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/open-scriptable" alt="GitHub last commit" />
 </div>
 
 ## NPM Packages
+
+<!-- opencode-image-vision -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/opencode-image-vision"><img src="https://img.shields.io/badge/opencode--image--vision-blue?logo=opencode" alt="opencode-image-vision" /></a>
+  <!-- 版本号 -->
+  <img src="https://img.shields.io/github/package-json/version/showlotus/opencode-image-vision" alt="GitHub package.json dynamic" />
+  <!-- 下载量 -->
+  <img src="https://img.shields.io/npm/dt/@showlotus/opencode-image-vision" alt="NPM Downloads" />
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/opencode-image-vision?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/opencode-image-vision?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/opencode-image-vision" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/opencode-image-vision" alt="GitHub pull requests" />
+  <!-- 最近更新时间 -->
+  <img src="https://img.shields.io/github/last-commit/showlotus/opencode-image-vision" alt="GitHub last commit" />
+</div>
 
 <!-- compiler-then-plugin -->
 <div>
@@ -50,6 +78,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/compiler-then-plugin?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/compiler-then-plugin?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/compiler-then-plugin" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/compiler-then-plugin" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/compiler-then-plugin" alt="GitHub last commit" />
 </div>
@@ -66,6 +98,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/vue2-sub-app?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/vue2-sub-app?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/vue2-sub-app" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/vue2-sub-app" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/vue2-sub-app" alt="GitHub last commit" />
 </div>
@@ -82,6 +118,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/code-inspector-plugin?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/code-inspector-plugin?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/code-inspector-plugin" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/code-inspector-plugin" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/code-inspector-plugin" alt="GitHub last commit" />
 </div>
@@ -98,6 +138,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/babel-plugin-jsx?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/babel-plugin-jsx?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/babel-plugin-jsx" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/babel-plugin-jsx" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/babel-plugin-jsx" alt="GitHub last commit" />
 </div>
@@ -114,6 +158,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/prettier-plugin-kebab-to-camel?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/prettier-plugin-kebab-to-camel?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/prettier-plugin-kebab-to-camel" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/prettier-plugin-kebab-to-camel" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/prettier-plugin-kebab-to-camel" alt="GitHub last commit" />
 </div>
@@ -130,6 +178,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/vue-mixins-loader?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/vue-mixins-loader?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/vue-mixins-loader" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/vue-mixins-loader" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/vue-mixins-loader" alt="GitHub last commit" />
 </div>
@@ -146,6 +198,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/ivu-extends?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/ivu-extends?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/ivu-extends" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/ivu-extends" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/ivu-extends" alt="GitHub last commit" />
 </div>
@@ -164,6 +220,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/glm-usage?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/glm-usage?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/glm-usage" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/glm-usage" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/glm-usage" alt="GitHub last commit" />
 </div>
@@ -180,6 +240,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/vscode-open-in?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/vscode-open-in?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/vscode-open-in" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/vscode-open-in" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/vscode-open-in" alt="GitHub last commit" />
 </div>
@@ -196,6 +260,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/Ti18n?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/Ti18n?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/Ti18n" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/Ti18n" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/Ti18n" alt="GitHub last commit" />
 </div>
@@ -214,6 +282,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/ShowCV?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/ShowCV?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/ShowCV" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/ShowCV" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/ShowCV" alt="GitHub last commit" />
 </div>
@@ -228,6 +300,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/fumadocs-template?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/fumadocs-template?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/fumadocs-template" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/fumadocs-template" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/fumadocs-template" alt="GitHub last commit" />
 </div>
@@ -244,6 +320,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/ahooks-dive?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/ahooks-dive?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/ahooks-dive" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/ahooks-dive" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/ahooks-dive" alt="GitHub last commit" />
 </div>
@@ -258,6 +338,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/bigscreen?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/bigscreen?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/bigscreen" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/bigscreen" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/bigscreen" alt="GitHub last commit" />
 </div>
@@ -274,6 +358,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/Python-100-Days-Website?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/Python-100-Days-Website?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/Python-100-Days-Website" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/Python-100-Days-Website" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/Python-100-Days-Website" alt="GitHub last commit" />
 </div>
@@ -290,6 +378,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/DouDiZhu-Register?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/DouDiZhu-Register?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/DouDiZhu-Register" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/DouDiZhu-Register" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/DouDiZhu-Register" alt="GitHub last commit" />
 </div>
@@ -306,6 +398,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/vue-sfc-playground?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/vue-sfc-playground?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/vue-sfc-playground" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/vue-sfc-playground" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/vue-sfc-playground" alt="GitHub last commit" />
 </div>
@@ -322,6 +418,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/wordcloud-online?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/wordcloud-online?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/wordcloud-online" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/wordcloud-online" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/wordcloud-online" alt="GitHub last commit" />
 </div>
@@ -338,6 +438,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/astexplorer?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/astexplorer?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/astexplorer" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/astexplorer" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/astexplorer" alt="GitHub last commit" />
 </div>
@@ -354,6 +458,10 @@
   <img src="https://img.shields.io/github/stars/showlotus/tampermonkey-scripts?style=flat" alt="GitHub Repo stars" />
   <!-- Forks 数 -->
   <img src="https://img.shields.io/github/forks/showlotus/tampermonkey-scripts?style=flat" alt="GitHub forks" />
+  <!-- Issues 数 -->
+  <img src="https://img.shields.io/github/issues/showlotus/tampermonkey-scripts" alt="GitHub issues" />
+  <!-- PR 数 -->
+  <img src="https://img.shields.io/github/issues-pr/showlotus/tampermonkey-scripts" alt="GitHub pull requests" />
   <!-- 最近更新时间 -->
   <img src="https://img.shields.io/github/last-commit/showlotus/tampermonkey-scripts" alt="GitHub last commit" />
 </div>
