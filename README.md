@@ -42,6 +42,24 @@
 
 ## NPM Packages
 
+<!-- opencode-skill-usage -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/opencode-skill-usage"><img src="https://img.shields.io/badge/opencode--skill--usage-blue?logo=opencode" alt="opencode-skill-usage" /></a>
+  <!-- 版本号 -->
+  <img src="https://img.shields.io/github/package-json/version/showlotus/opencode-skill-usage" alt="GitHub package.json dynamic" />
+  <!-- 下载量 -->
+  <img src="https://img.shields.io/npm/dt/opencode-skill-usage" alt="NPM Downloads" />
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/opencode-skill-usage?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/opencode-skill-usage?style=flat" alt="GitHub forks" />
+  <!-- Issues + PRs 数 -->
+  <img src="https://badgen.net/github/open-issues/showlotus/opencode-skill-usage?label=issues%2BPRs" alt="GitHub issues" />
+  <!-- 最近更新时间 -->
+  <img src="https://img.shields.io/github/last-commit/showlotus/opencode-skill-usage" alt="GitHub last commit" />
+</div>
+
 <!-- opencode-image-vision -->
 <div>
   <!-- 项目主页链接 -->
