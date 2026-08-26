@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/last-commit/showlotus/NeedClipboard" alt="GitHub last commit" />
 </div>
 
-## IOS Widget by Scriptable
+## iOS Widget by Scriptable
 
 <!-- open-scriptable -->
 <div>
