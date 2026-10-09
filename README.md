@@ -262,6 +262,24 @@
 
 ## Websites
 
+<!-- Hang -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/Hang"><img src="https://img.shields.io/badge/Hang-blue?logo=react&link=https://github.com/showlotus/Hang" alt="Hang" /></a>
+  <!-- 版本号 -->
+  <!-- <img src="https://img.shields.io/github/package-json/version/showlotus/Hang" alt="GitHub package.json dynamic" /> -->
+  <!-- 项目网站链接 -->
+  <a href="https://showlotus.github.io/Hang/"><img src="https://img.shields.io/website?url=https://showlotus.github.io/Hang/&up_message=online&link=https://showlotus.github.io/Hang/" alt="Website" /></a>
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/Hang?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/Hang?style=flat" alt="GitHub forks" />
+  <!-- Issues + PRs 数 -->
+  <!-- <img src="https://badgen.net/github/open-issues/showlotus/Hang?label=issues%2BPRs" alt="GitHub issues" /> -->
+  <!-- 最近更新时间 -->
+  <img src="https://img.shields.io/github/last-commit/showlotus/Hang" alt="GitHub last commit" />
+</div>
+
 <!-- showcv -->
 <div>
   <!-- 项目主页链接 -->
