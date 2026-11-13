@@ -20,6 +20,24 @@
   <img src="https://img.shields.io/github/last-commit/showlotus/NeedClipboard" alt="GitHub last commit" />
 </div>
 
+<!-- dsterm -->
+<div>
+  <!-- 项目主页链接 -->
+  <a href="https://github.com/showlotus/dsterm"><img src="https://img.shields.io/badge/dsterm-blue?logo=deepseek" alt="dsterm" /></a>
+  <!-- 版本号 -->
+  <img src="https://img.shields.io/github/package-json/version/showlotus/dsterm" alt="GitHub package.json dynamic" />
+  <!-- 下载量 -->
+  <img src="https://img.shields.io/npm/dt/@showlotus/dsterm" alt="NPM Downloads" />
+  <!-- Stars 数 -->
+  <img src="https://img.shields.io/github/stars/showlotus/dsterm?style=flat" alt="GitHub Repo stars" />
+  <!-- Forks 数 -->
+  <img src="https://img.shields.io/github/forks/showlotus/dsterm?style=flat" alt="GitHub forks" />
+  <!-- Issues + PRs 数 -->
+  <!-- <img src="https://badgen.net/github/open-issues/showlotus/dsterm?label=issues%2BPRs" alt="GitHub issues" /> -->
+  <!-- 最近更新时间 -->
+  <img src="https://img.shields.io/github/last-commit/showlotus/dsterm" alt="GitHub last commit" />
+</div>
+
 ## iOS Widget by Scriptable
 
 <!-- open-scriptable -->
